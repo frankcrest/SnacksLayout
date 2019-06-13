@@ -22,7 +22,7 @@ class ViewController: UIViewController {
   
   let titleLabel: UILabel = {
     let label = UILabel()
-    label.text = "label"
+    label.text = "SNACKS"
     label.textAlignment = .center
     label.translatesAutoresizingMaskIntoConstraints = false
     return label
